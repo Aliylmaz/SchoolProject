@@ -1,1 +1,1 @@
-Bu projede OOP kullanımlarına yogunlaşmıştır ve içerigi  online alışveriş sistemi uygulaması benzeri bir şey oluşturmaktır. ürün satın alabilme ve magazaları begenip takip edebilme gibi farklı bir çok  fonksiyonun bulundugu basit bir uygulama 
+Bu projede OOP kullanımlarına yogunlaşmıştır ve içerigi  online alışveriş sistemi uygulaması benzeri bir şey oluşturmaktır. ürün satın alabilme ve magazaları begenip takip edebilme gibi farklı bir çok  fonksiyonun bulundugu  işlemlerini kapsamaktadır.
